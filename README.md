@@ -1,6 +1,6 @@
 This repository shows that, when compiling C code, linker flags
 are not picked up by the compiler, which actually warns when passed
-linker flags.
+linker flags. See also [probe#2569](https://github.com/ooni/probe/issues/2569).
 
 Here's what happens when running on macOS (our target environment):
 
