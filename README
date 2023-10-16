@@ -1,3 +1,0 @@
-This repository shows that, when compiling C code, linker flags
-are not picked up by the compiler, which actually warns when passed
-linker flags.
